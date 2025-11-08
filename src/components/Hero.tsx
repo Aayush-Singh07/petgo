@@ -15,7 +15,14 @@ export function Hero() {
   Book Now
 </a>
 </button>
-              <button className="btn-outline">Share Your Experience</button>
+              <button className="btn-outline"><a 
+  href="https://docs.google.com/forms/d/e/1FAIpQLScSVm6lwOD_c78aMHbgBlWG4XGajoSG2pTfLs0nSPmWh1ckgg/viewform?usp=dialog" 
+  target="_blank" 
+  rel="noopener noreferrer" 
+  class="btn-feedback"
+>
+  Share Your Experience
+</a></button>
             </div>
           </div>
 

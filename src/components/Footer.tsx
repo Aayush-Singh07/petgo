@@ -16,7 +16,15 @@ export function Footer() {
 </a>
 </button>
               <button className="btn-outline border-white text-white hover:bg-gray-800">
-                Contact Support
+                <a 
+  href="https://docs.google.com/forms/d/e/1FAIpQLSfj7Qf5kneydsZO-klCu_rv8qR4ZWfdBredjCivs0OT1dgT8A/viewform?usp=dialog" 
+  target="_blank" 
+  rel="noopener noreferrer" 
+  class="btn-join"
+>
+  Join Us
+</a>
+
               </button>
             </div>
           </div>
