@@ -11,7 +11,10 @@ export function Footer() {
             </h2>
             <p className="text-gray-300 mb-6">Book your first service today</p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <button className="btn-teal">Book Now</button>
+              <button className="btn-teal"><a href="https://wa.me/918921761269?text=Hii%2C%20I'm%20a%20pet%20parent%20and%20I'm%20interested%20in%20booking%20a%20service%20through%20PetGo." target="_blank" class="btn">
+  Book Now
+</a>
+</button>
               <button className="btn-outline border-white text-white hover:bg-gray-800">
                 Contact Support
               </button>
@@ -43,7 +46,7 @@ export function Footer() {
                 <p className="font-medium text-white text-lg mb-3">Aayush Singh</p>
                 <div className="flex items-center gap-3 mb-4">
                   <a 
-                    href="https://linkedin.com/in/aayushsingh" 
+                    href="https://linkedin.com/in/aayussingh" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="text-gray-400 hover:text-teal-400 transition-colors"
@@ -51,7 +54,7 @@ export function Footer() {
                     <Linkedin className="w-5 h-5" />
                   </a>
                   <a 
-                    href="https://instagram.com/aayushsingh" 
+                    href="https://instagram.com/aayussingh" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="text-gray-400 hover:text-teal-400 transition-colors"
@@ -59,7 +62,7 @@ export function Footer() {
                     <Twitter className="w-5 h-5" />
                   </a>
                   <a 
-                    href="https://instagram.com/aayushsingh" 
+                    href="https://instagram.com/aaushsingh" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="text-gray-400 hover:text-teal-400 transition-colors"
@@ -77,13 +80,13 @@ export function Footer() {
                 </div>
                 <div className="flex items-center gap-2">
                   <Phone className="w-4 h-4" />
-                  <a href="tel:+919876543210" className="hover:text-teal-400">
-                    +91 9876543210
+                  <a href="tel:+91987654300" className="hover:text-teal-400">
+                    +91 987654000
                   </a>
                 </div>
                 <div className="flex items-center gap-2">
                   <MessageCircle className="w-4 h-4" />
-                  <a href="https://wa.me/919876543210" className="hover:text-teal-400">
+                  <a href="https://wa.me/28229" className="hover:text-teal-400">
                     WhatsApp
                   </a>
                 </div>

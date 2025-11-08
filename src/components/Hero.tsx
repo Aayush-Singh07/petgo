@@ -11,7 +11,10 @@ export function Hero() {
               Book grooming, vet consultation & pet services with one tap.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
-              <button className="btn-teal">Book Now</button>
+              <button className="btn-teal"><a href="https://wa.me/918921761269?text=Hii%2C%20I'm%20a%20pet%20parent%20and%20I'm%20interested%20in%20booking%20a%20service%20through%20PetGo." target="_blank" class="btn">
+  Book Now
+</a>
+</button>
               <button className="btn-outline">Share Your Experience</button>
             </div>
           </div>
