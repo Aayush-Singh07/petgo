@@ -139,19 +139,6 @@ export function ServiceDetail() {
           </div>
         </div>
       </section>
-
-      <section className="bg-teal-50 py-16">
-        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-3xl font-bold text-gray-900 mb-4">Ready to Give Your Pet the Best Care?</h2>
-          <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
-            Contact us today to learn more about how PETGO can support your pet's health and happiness.
-          </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <button className="btn-teal">Get Started</button>
-            <button className="btn-outline">Schedule a Call</button>
-          </div>
-        </div>
-      </section>
     </div>
   );
 }
